@@ -40,6 +40,8 @@ Hands-on Jira Service Management Zero-to-Hero project series covering 8 real-wor
 
 # 🟢 PROJECT 1 — IT Help Desk
 
+📂 **Built and ready:** [`Project-01-IT-Help-Desk/`](./Project-01-IT-Help-Desk/) — start with [DEPLOY.md](./Project-01-IT-Help-Desk/DEPLOY.md) for the click-by-click build guide.
+
 ## Level: Beginner
 
 This is the starting point of the Zero-to-Hero journey.
@@ -1260,7 +1262,7 @@ The final environment should demonstrate the complete lifecycle:
 
 | Project       | Level           | Primary Focus                  |
 | ------------- | --------------- | ------------------------------ |
-| **Project 1** | 🟢 Beginner     | IT Help Desk                   |
+| **[Project 1](./Project-01-IT-Help-Desk/)** ✅ | 🟢 Beginner     | IT Help Desk                   |
 | **Project 2** | 🟢 Beginner+    | Employee Service Management    |
 | **Project 3** | 🟡 Intermediate | Enterprise ITSM                |
 | **Project 4** | 🟡 Intermediate | Assets & CMDB                  |
